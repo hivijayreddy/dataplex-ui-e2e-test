@@ -1,6 +1,0 @@
-
-{
-  "BQNoteBookValidateData": [{"ValidateResult1":"Your active configuration is: [default]", "ValidateResult2":"dataplex-cdf:alpa_viresh_zone_test", "ValidateResult3":"Query complete after"}],
-  "GCSNoteBookValidateData": [{"ValidateResult1":"Bucket: analyze-test-", "ValidateResult2":"Creating gs://analyze-test-", "ValidateResult3":"Time created:", "ValidateResult4":"Operation completed over 1 objects/10.0 B", "ValidateResult5":"Operation completed over 1 objects."} ]
-}
-
