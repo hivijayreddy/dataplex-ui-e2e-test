@@ -50,7 +50,7 @@ public class SeleniumDriver {
         ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.addArguments("--no-sandbox");
         chromeOptions.addArguments("--disable-setuid-sandbox");
-//        chromeOptions.addArguments("--disable-web-security", "--user-data-dir", "--allow-running-insecure-content");
+        chromeOptions.addArguments("--disable-web-security", "--user-data-dir", "--allow-running-insecure-content");
        chromeOptions.addArguments("--headless");
 //       chromeOptions.addArguments("--window-size=" + SeleniumHelper.readParameters("windowSize"));
         chromeOptions.setAcceptInsecureCerts(true);
